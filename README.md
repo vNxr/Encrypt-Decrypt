@@ -1,4 +1,4 @@
-Hello, this tool allows you to encrypt and decrypt messages with letters. 
+Hello, this tool allows you to encrypt and decrypt messages with letters:
 Note - to install:
 sudo apt-get update; 
 sudo apt install python3; 
