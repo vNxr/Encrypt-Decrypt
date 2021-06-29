@@ -2,5 +2,6 @@ Hello, this tool allows you to encrypt and decrypt messages with letters. Note -
 sudo apt-get update; 
 sudo apt install python3; 
 git clone https://github.com/vNxr/Encrypt-Decrypt; 
-cd Encrypt-Decrypt; 
-python3 Encrypt-Decrypt.py
+cd Encrypt-Decrypt
+
+to launch: python3 Encrypt-Decrypt.py
